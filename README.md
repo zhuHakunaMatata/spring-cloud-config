@@ -1,2 +1,2 @@
-# spring-cloud-config
-cloud-config : server &amp; client
+# spring-cloud-config-server
+cloud-config : server demo
